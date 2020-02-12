@@ -1,0 +1,86 @@
+.tabla {
+	border: 1px solid;
+	border-collapse: collapse;
+}
+
+.tabla tr {
+	border: 1px solid;
+}
+
+.tabla th {
+	border: 1px solid;
+}
+
+
+img {
+	height: 50px;
+	width: 50px;
+}
+
+h1 {
+	border: 2px dashed black;
+	text-align: center;
+	width: 680px;
+	background-color: grey;
+	color: white;
+	 }
+
+h1, table {
+	border-collapse: collapse;
+}
+
+.cabecera {
+	background-color: grey;
+}
+
+.rayar {
+	background-color: #383737;
+	color: #FFFFFF;
+	font-family: "Segoe Print";
+
+}
+
+#uno {
+	background-color: white;
+}
+
+#dos {
+	background-color: #E6E6E6;
+
+}
+
+#tres {
+	background-color: #C3C3C3;
+}
+
+#cuatro {
+	background-color: #B3B3B3;
+}
+
+#cinco {
+	background-color: #999999;
+}
+
+#seis {
+	background-color: #808080;
+}
+
+#siete {
+	background-color: #666666;
+	color: white;
+}
+
+#ocho {
+	background-color: #4C4C4C;
+	color: white;
+}
+
+#nueve {
+	background-color: #333333;
+	color: white;
+}
+
+#diez {
+	background-color: #191919;
+	color: white;
+}
